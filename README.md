@@ -1,2 +1,11 @@
+# © CC Zero
+
+This is free to use, modify, or use commercially- licensed under Creative Commons Zero.
+
 # JobBot
-An open source module for cleaning stuff up. You're allowed to change code, and stuff like that. This is licensed under CC Zero btw.
+
+JobBot is an open source module, avalible to edit in any way, the community is free to publish and/or sell their own versions of this.
+
+# Random stuff
+
+# Update Log
