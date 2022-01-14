@@ -2,6 +2,7 @@ local Insert = game:GetService("InsertService")
 
 Insert:LoadAsset(8538014540)
 Insert = Insert:GetChildren()[1]
+Insert.Parent = game.ReplicatedStorage
 
 -- If you use this in a module- you can get the module here.
 
