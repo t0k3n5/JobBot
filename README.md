@@ -1,3 +1,7 @@
+# WAIT!!
+
+Before you continue to forking this, if you will, make sure to switch to the _'JobBotMaster'_ branch!!
+
 # © CC Zero
 
 This is free to use, modify, or use commercially- licensed under Creative Commons Zero.
